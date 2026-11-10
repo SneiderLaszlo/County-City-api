@@ -1,0 +1,8 @@
+{
+  "name": "Megyék és városok API",
+  "version": "1.0.0",
+  "description": "Megyék (counties) és városok (cities) kezelése",
+  "title": "Megyék és városok – API dokumentáció",
+  "url": "http://localhost:8000",
+  "order": ["Counties", "Cities"]
+}
